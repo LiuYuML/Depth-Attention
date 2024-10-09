@@ -20,7 +20,6 @@ To ensure the accuracy and consistency of the results as reported in our paper, 
 1. **Lite-Mono**: This is the primary pretrained model we have used in our research. You can download it from the [Lite-Mono](https://github.com/noahzn/Lite-Mono) GitHub repository.
 2. **FastDepth**: In addition to Lite-Mono, we have also confirmed that the [FastDepth](https://github.com/dwofk/fast-depth) model can be used with our algorithm.
 3. **Monodepth2**: Another option that has been tested is the [Monodepth2](https://github.com/nianticlabs/monodepth2) model.
-4. **UDepth**: Lastly, the [UDepth](https://github.com/uf-robopi/UDepth) model has also been shown to work well with our algorithm.
 
 We recommend starting with the Lite-Mono model, as it has been extensively used in our experiments.
 
