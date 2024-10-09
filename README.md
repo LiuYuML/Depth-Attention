@@ -23,3 +23,21 @@ To ensure the accuracy and consistency of the results as reported in our paper, 
 
 We recommend starting with the Lite-Mono model, as it has been extensively used in our experiments.
 
+## Setting Up the Trackers
+
+In our quest to create a comprehensive tracking solution, we have meticulously chosen a diverse array of baseline trackers, each with its own unique strengths:
+
+- **RTS**: Engineered for rapid tracking, this system excels in real-time scenarios. [Dive deeper](https://github.com/visionml/pytracking/blob/master/pytracking/README.md#RTS) 
+- **AiATrack**: A cutting-edge tracker that harnesses the power of artificial intelligence. [Discover more](https://github.com/Little-Podi/AiATrack) 
+- **ARTrack**: Optimized for augmented reality, this tracker is a leader in its field. [Find out more](https://github.com/MIV-XJTU/ARTrack) 
+- **KeepTrack**: Renowned for its steadfast reliability and precision across a spectrum of conditions. [Get the details](https://github.com/visionml/pytracking/blob/master/pytracking/README.md#KeepTrack) 
+- **MixFormer**: A versatile tracker that adapts to various tracking challenges. [Check it out](https://github.com/MCG-NJU/MixFormer) 
+- **Neighbor**: This tracker focuses on proximity-based tracking for enhanced accuracy. [Explore here](https://github.com/franktpmvu/NeighborTrack) 
+- **ODTrack**: Designed for object detection and tracking in complex environments. [Learn about it](https://github.com/GXNU-ZhongLab/ODTrack) 
+- **STMTrack**: A tracker that offers a seamless tracking experience. [Read more](https://github.com/fzh0917/STMTrack) 
+
+Together, these trackers form a powerful toolkit, adept at handling a wide range of tracking tasks across diverse settings and scenarios.
+
+To set up these trackers, please refer to the comprehensive [tutorial](https://github.com/LiuYuML/Depth-Attention/tree/main/Trackers). 
+
+
