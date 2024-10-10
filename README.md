@@ -4,7 +4,6 @@ The official implementation for the ACCV 2024 paper \[[_Depth Attention for Robu
 
 ![alt text](Demo.gif)
 ## Environment Setup
-![alt text](Demo.mp4)
 To ensure the replication of the precise results detailed in the paper, it is crucial to match the software environment closely. Please configure your system with the following specifications:
 
 - **Python**: Version 3.8.10
