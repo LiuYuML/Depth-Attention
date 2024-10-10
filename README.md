@@ -3,6 +3,7 @@ The official implementation for the ACCV 2024 paper \[[_Depth Attention for Robu
 ![depth_attention (1)-1](https://github.com/user-attachments/assets/96159032-faf5-4305-ba91-ac0c5a3a6b75)
 ![DepthEstimationOnDiagram](https://github.com/user-attachments/assets/eec7afd1-6f11-4025-9f87-369988c6e3fa)
 
+## Demo
 ![alt text](Demo.gif)
 ## Environment Setup
 To ensure the replication of the precise results detailed in the paper, it is crucial to match the software environment closely. Please configure your system with the following specifications:
