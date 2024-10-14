@@ -55,13 +55,7 @@ Together, these trackers form a powerful toolkit, adept at handling a wide range
 To set up these trackers, please refer to the comprehensive [tutorial](https://github.com/LiuYuML/Depth-Attention/tree/main/Trackers). 
 
 # Citing Us
-If you find our work valuable, we kindly ask you to consider citing our paper and starring ⭐ our repository. Our implementation includes mutiple trackers and we hope it make life easier for the generation research community.
-
-
-
-# Acknowledgements
-
-This code borrows heavily from [Paint-By-Example](https://github.com/Fantasy-Studio/Paint-by-Example).
+If you find our work valuable, we kindly ask you to consider citing our paper and starring ⭐ our repository. Our implementation includes mutiple trackers and we hope it make life easier for the VOT research community and Depth Estimation community.
 
 # Maintenance
 
