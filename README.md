@@ -12,10 +12,13 @@ The official implementation for the ACCV 2024 paper \[[_Depth Attention for Robu
 :fire::fire::fire:
 
 
+## Qualitative Results
 ![DepthEstimationOnDiagram](https://github.com/user-attachments/assets/eec7afd1-6f11-4025-9f87-369988c6e3fa)
 
 ## Demo
 ![alt text](Demo.gif)
+
+# Set up our algorithm
 ## Environment Setup
 To ensure the replication of the precise results detailed in the paper, it is crucial to match the software environment closely. Please configure your system with the following specifications:
 
