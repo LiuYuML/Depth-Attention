@@ -1,4 +1,5 @@
-# Depth Attention
+# Depth Attention ![Static Badge](https://img.shields.io/badge/Achieving_New_Sota_Without_Finetuning-ACCV2024_Oral-blue)
+
 The official implementation for the ACCV 2024 paper \[[_Depth Attention for Robust RGB Tracking_](www.google.com)\]
 ![depth_attention (1)-1](https://github.com/user-attachments/assets/96159032-faf5-4305-ba91-ac0c5a3a6b75)
 
@@ -53,4 +54,19 @@ Together, these trackers form a powerful toolkit, adept at handling a wide range
 
 To set up these trackers, please refer to the comprehensive [tutorial](https://github.com/LiuYuML/Depth-Attention/tree/main/Trackers). 
 
+# Citing Us
+If you find our work valuable, we kindly ask you to consider citing our paper and starring ⭐ our repository. Our implementation includes mutiple trackers and we hope it make life easier for the generation research community.
+
+
+
+# Acknowledgements
+
+This code borrows heavily from [Paint-By-Example](https://github.com/Fantasy-Studio/Paint-by-Example).
+
+# Maintenance
+
+Please open a GitHub issue for any help. If you have any questions regarding the technical details, feel free to contact us. 
+
+# License
+[MIT License](https://mit-license.org/) 
 
