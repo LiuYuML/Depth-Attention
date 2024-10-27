@@ -64,6 +64,16 @@ To set up these trackers, please refer to the comprehensive [tutorial](https://g
 # Citing Us
 If you find our work valuable, we kindly ask you to consider citing our paper and starring ⭐ our repository. Our implementation includes mutiple trackers and we hope it make life easier for the VOT research community and Depth Estimation community.
 
+```bibtex
+@inproceedings{liu2024depth,
+  title={Depth Attention for Robust RGB Tracking},
+  author={Yu Liu and Arif Mahmood and Muhammad Haris Khan},
+  booktitle={Proceedings of the Asian Conference on Computer Vision (ACCV)},
+  pages={to be announced},
+  year={2024},
+  organization={Springer}
+}
+```
 # Maintenance
 
 Please open a GitHub issue for any help. If you have any questions regarding the technical details, feel free to contact us. 
