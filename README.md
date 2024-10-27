@@ -3,6 +3,7 @@
 The official implementation for the ACCV 2024 paper \[[_Depth Attention for Robust RGB Tracking_](www.google.com)\]
 ![depth_attention (1)-1](https://github.com/user-attachments/assets/96159032-faf5-4305-ba91-ac0c5a3a6b75)
 
+Yu Liu,  [Arif Mahmood](https://scholar.google.com.sg/citations?user=_e6yGs4AAAAJ&hl=en),  [Muhammad Haris Khan](https://scholar.google.com/citations?user=ZgERfFwAAAAJ&hl=en)
 # Abstract
 >RGB video object tracking is a fundamental task in computer vision. Its effectiveness can be improved using depth information, particularly for handling motion-blurred target. However, depth information is often missing in commonly used tracking benchmarks. In this work, we propose a new framework that leverages monocular depth estimation to counter the challenges of tracking targets that are out of view or affected by motion blur in RGB video sequences.
 
