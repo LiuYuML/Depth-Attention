@@ -1,6 +1,6 @@
 # Depth Attention ![Static Badge](https://img.shields.io/badge/Achieving_New_Sota_Without_Finetuning-ACCV2024_Oral-blue)
 
-The official implementation for the ACCV 2024 paper \[[_Depth Attention for Robust RGB Tracking_](www.google.com)\]
+The official implementation for the ACCV 2024 paper \[[_Depth Attention for Robust RGB Tracking_](https://arxiv.org/abs/2410.20395)\]
 ![depth_attention (1)-1](https://github.com/user-attachments/assets/96159032-faf5-4305-ba91-ac0c5a3a6b75)
 
 Yu Liu,  [Arif Mahmood](https://scholar.google.com.sg/citations?user=_e6yGs4AAAAJ&hl=en),  [Muhammad Haris Khan](https://scholar.google.com/citations?user=ZgERfFwAAAAJ&hl=en)
