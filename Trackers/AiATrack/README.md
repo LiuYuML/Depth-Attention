@@ -20,4 +20,3 @@ python tracking/test.py --dataset {your_dataset_name}
 
 {your_dataset_name} shall be the name of the dataset that you wanna run your experiment
 
-you may need to train the large model on you own
